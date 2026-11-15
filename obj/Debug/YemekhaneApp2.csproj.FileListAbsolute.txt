@@ -1,0 +1,148 @@
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.exe.config
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.exe
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.pdb
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.csprojResolveAssemblyReference.cache
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.Properties.Resources.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.csproj.GenerateResource.Cache
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.exe
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.pdb
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.first_page.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemek_listesi.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.Fatura_Dokum_Listesi.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.dahili_fatura_dokum_listesi.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.harici_fatura_dokum_listesi.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemekhane_stok_hareketi.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.stok_girisi.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\bin\Debug\tr-TR\YemekhaneApp2.resources.dll
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\bin\Debug\ug-CN\YemekhaneApp2.resources.dll
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.tr-TR.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.ug-CN.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\tr-TR\YemekhaneApp2.resources.dll
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\ug-CN\YemekhaneApp2.resources.dll
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_ekle.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_guncelle.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_sil.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kullanici_islemleri_2.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemek_liste_ekle.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.dahili_fatura_ekle.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.harici_fatura_ekle.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.urun_listesi.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.start_ad.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.stok_cikisi.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.fatura_dokum_gelir_gider.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.special_data_setting.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.avans_girisi.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.urun_ekle_cikar.resources
+C:\Users\CoderEng\Desktop\asdfg\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.avans_goruntule.resources
+D:\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.exe.config
+D:\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.exe
+D:\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.pdb
+D:\YemekhaneApp2\YemekhaneApp2\bin\Debug\tr-TR\YemekhaneApp2.resources.dll
+D:\YemekhaneApp2\YemekhaneApp2\bin\Debug\ug-CN\YemekhaneApp2.resources.dll
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.csprojResolveAssemblyReference.cache
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.avans_girisi.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.avans_goruntule.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.dahili_fatura_dokum_listesi.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.dahili_fatura_ekle.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.fatura_dokum_gelir_gider.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.Fatura_Dokum_Listesi.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.first_page.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.harici_fatura_dokum_listesi.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.harici_fatura_ekle.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_ekle.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_guncelle.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_sil.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kullanici_islemleri_2.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.Properties.Resources.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.special_data_setting.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.start_ad.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.stok_cikisi.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.stok_girisi.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.urun_ekle_cikar.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.urun_listesi.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemekhane_stok_hareketi.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemek_listesi.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemek_liste_ekle.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.tr-TR.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.ug-CN.resources
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.csproj.GenerateResource.Cache
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\tr-TR\YemekhaneApp2.resources.dll
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\ug-CN\YemekhaneApp2.resources.dll
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.exe
+D:\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.pdb
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.exe.config
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.exe
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.pdb
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.exe
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.pdb
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\bin\Debug\tr-TR\YemekhaneApp2.resources.dll
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\bin\Debug\ug-CN\YemekhaneApp2.resources.dll
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.csprojResolveAssemblyReference.cache
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.avans_girisi.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.avans_goruntule.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.dahili_fatura_dokum_listesi.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.dahili_fatura_ekle.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.fatura_dokum_gelir_gider.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.Fatura_Dokum_Listesi.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.first_page.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.harici_fatura_dokum_listesi.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.harici_fatura_ekle.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_ekle.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_guncelle.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_sil.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kullanici_islemleri_2.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.Properties.Resources.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.special_data_setting.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.start_ad.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.stok_cikisi.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.stok_girisi.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.urun_ekle_cikar.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.urun_listesi.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemekhane_stok_hareketi.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemek_listesi.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemek_liste_ekle.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.tr-TR.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.ug-CN.resources
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.csproj.GenerateResource.Cache
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\tr-TR\YemekhaneApp2.resources.dll
+D:\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\ug-CN\YemekhaneApp2.resources.dll
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.exe.config
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.exe
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.pdb
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.exe
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\bin\Debug\YemekhaneApp2.pdb
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\bin\Debug\tr-TR\YemekhaneApp2.resources.dll
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\bin\Debug\ug-CN\YemekhaneApp2.resources.dll
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.csprojResolveAssemblyReference.cache
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.avans_girisi.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.avans_goruntule.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.dahili_fatura_dokum_listesi.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.dahili_fatura_ekle.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.fatura_dokum_gelir_gider.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.Fatura_Dokum_Listesi.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.first_page.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.harici_fatura_dokum_listesi.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.harici_fatura_ekle.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_ekle.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_guncelle.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kisi_sil.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.kullanici_islemleri_2.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.Properties.Resources.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.special_data_setting.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.start_ad.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.stok_cikisi.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.stok_girisi.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.urun_ekle_cikar.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.urun_listesi.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemekhane_stok_hareketi.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemek_listesi.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.yemek_liste_ekle.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.tr-TR.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.login.ug-CN.resources
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\YemekhaneApp2.csproj.GenerateResource.Cache
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\tr-TR\YemekhaneApp2.resources.dll
+F:\CodeREng\Staj\STAJ 2017-2018\YemekhaneApp2\YemekhaneApp2\obj\Debug\ug-CN\YemekhaneApp2.resources.dll
