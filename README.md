@@ -1,0 +1,1 @@
+# csharp-kurumsal-stok-otomasyonu
